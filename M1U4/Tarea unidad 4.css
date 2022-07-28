@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    background-color: yellow;
+}
+h2{
+    font-family: verdana;
+    font-style: italic;
+}
+.destacado{
+    font-style: italic;
+    
+}
+#caja{
+    background-color: aqua;
+    width: 300px;
+    box-sizing: border-box;
+    border: 5px solid black;
+}
