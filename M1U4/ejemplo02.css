@@ -1,0 +1,14 @@
+h1{
+    font-family: arial;
+    background-color: aqua;
+    text-align: center;
+    text-transform: uppercase; /*mayúscula*/
+}
+h2{
+    font-style: italic;
+    
+}
+p{
+    font-weight: bold;
+    text-decoration: underline;
+}
