@@ -1,0 +1,26 @@
+.caja{
+    width: 300px;
+    height: 300px;
+    background: #7700ff;
+background: linear-gradient(127deg,#7700ff 0%, #00e9ff 80%);
+background: -webkit-linear-gradient(127deg,#7700ff 0%, #00e9ff 80%);
+background: -moz-linear-gradient(127deg,#7700ff 0%, #00e9ff 80%);
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 8px 16px 27px 4px rgba(0,0,0,0.6);
+    border-radius: 20px;
+}
+.texto{
+    background-color: yellow;
+    padding: 10px;
+    column-count: 3;
+    column-gap: 50px;
+    
+}
+.texto p{
+    font-family: arial;
+    margin-top: 0%;
+}
+h2{
+    font-family: 'Oleo Script Swash Caps', cursive;
+}

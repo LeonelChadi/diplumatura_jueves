@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    background-color: yellow;
+}
+h2{
+    font-family: verdana;
+    font-style: italic;
+}
+.destacado{
+    font-style: italic;
+    
+}
+.caja{
+    background: #8600ff;
+background: linear-gradient(155deg,#8600ff 0%, #00ff8b 80%);
+background: -webkit-linear-gradient(155deg,#8600ff 0%, #00ff8b 80%);
+background: -moz-linear-gradient(155deg,#8600ff 0%, #00ff8b 80%);
+    width: 300px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    box-shadow: 8px 10px 35px 2px rgba(0,0,0,0.75);
+
+}
+.texto{
+    background-color: aqua;
+    width: 600px;
+    padding: 20px;
+    column-count: 3;
+    column-gap: 10px;
+    column-rule: 1px solid black
+}
+.texto p{
+    margin-top: 0%;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+img{
+    border-radius: 200px 200px 200px 200px;
+}

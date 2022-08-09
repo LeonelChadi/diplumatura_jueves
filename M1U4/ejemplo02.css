@@ -9,6 +9,6 @@ h2{
     
 }
 p{
-    font-weight: bold;
-    text-decoration: underline;
+    color: rgba(0,0,0,0.5);
+    font-size: 2em;
 }
