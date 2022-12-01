@@ -17,16 +17,18 @@ h2 {
 
 header {
   background-color: #2e64a1;
-  padding: 16px 0;
+  padding: 1em 0;
+}
+
+.holderimg {
+  border-radius: 50%;
 }
 
 header h1 {
   color: white;
   font-size: 40px;
-  font-style: italic;
   font-weight: 100;
   display: inline-block;
-  position: relative;
   bottom: 35px;
   margin-left: 10px;
 }
