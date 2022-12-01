@@ -1,0 +1,48 @@
+body {
+  font-family:'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.holder {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-weight: 400;
+  color: #2e64a1;
+  margin: 0 0 1em;
+}
+
+header {
+  background-color: #2e64a1;
+  padding: 16px 0;
+}
+
+header h1 {
+  color: white;
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 100;
+  display: inline-block;
+  position: relative;
+  bottom: 35px;
+  margin-left: 10px;
+}
+
+footer {
+  background: #ccc;
+  clear: both;
+  color: #333;
+  padding: 50px 0;
+  margin-top: 20px;
+}
+
+footer p {
+  font-size: 0.7em;
+  font-style: italic;
+  text-align: center;
+  margin: 0;
+}
+

@@ -1,0 +1,27 @@
+body {
+  font-family:'Open Sans', sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.holder {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.holder1 {
+  margin-left: 20px;
+}
+
+.holder1 img {
+  border-radius: 50%;
+}
+
+h2 {
+  font-weight: 400;
+  color: #2e64a1;
+  margin: 0 0 1em;
+}
+
+
+
